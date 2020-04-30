@@ -3,6 +3,7 @@
 
 // Run button configuration
   "commands": {
+    "Compile & Run": "javac {{filename}} && java {{filename_no_ext}}",
     "Compile": "javac {{filename}}",
     "Run": "java {{filename_no_ext}}"
   },
