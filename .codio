@@ -3,13 +3,13 @@
 
 // Run button configuration
   "commands": {
-    "Compile": "javac HelloWorld.java",
-    "Run": "java HelloWorld"
+    "Compile": "javac {{filename}}",
+    "Run": "java {{filename_no_ext}}"
   },
 
 // Preview button configuration
   "preview": {
 
   },
-  "debugger": [{"type":"JAVA","command":"-agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5105","before":"javac -g -d . HelloWorld.java && java -agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5105 HelloWorld ","single":true,"path":"HelloWorld.java","args":"","rootFolder":"","uuid":"17619cd9-b8af-656f-9f29-54ca4d9f5d4a","name":"HelloWorld.java"}]
+  "debugger": [{"type":"JAVA","command":"-agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5105","before":"javac -g -d . HelloWorld.java && java -agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5105 HelloWorld ","single":true,"path":"HelloWorld.java","args":"","rootFolder":"","uuid":"17619cd9-b8af-656f-9f29-54ca4d9f5d4a","name":"Debug Current File"}]
 }
