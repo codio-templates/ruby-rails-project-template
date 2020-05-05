@@ -7,7 +7,7 @@ Click on the HelloWorld.java file in the file tree to open it in the code editor
 You can right-click in the file tree to rename this file or delete it and start from a new file (see below).
 
 ## Compile, Run or Both
-Use the Run button (that looks like a Rocketship) to Compile and Run the file your curser is in.
+Use the Run button (that looks like a Rocketship) to Compile and Run the file your cursor is in.
 
 ![](https://global.codio.com/platform/readme.resources/RunMenuJava.png)
 
