@@ -12,6 +12,9 @@ Use the Run button (that looks like a Rocketship) to Compile and Run the file yo
 
 Use the drop-down arrow to the right of the "Compile & Run" option to change the button to just Compile or just Run.
 
+### Debug your Code
+Use the "Debug Current File" on the far right of the top menu bar to launch the debugger targeting the file your cursor is in.
+
 ### Reconfigure your Panels for easier development
 Use the **View > Panels** menu on the top tool bar to segment your screen.
 
