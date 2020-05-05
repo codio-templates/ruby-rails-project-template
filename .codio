@@ -1,5 +1,6 @@
 {
-    // Configure your Run and Preview buttons here.
+    // This file is used to configure the three buttons along Codio's top menu.
+    
     // Run button configuration
     "commands": {
         "Compile & Run": "javac {{filename}} && java {{filename_no_ext}}",
