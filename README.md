@@ -9,7 +9,7 @@ You can right-click in the file tree to rename this file or delete it and start 
 ## Compile, Run or Both
 Use the Run button (that looks like a Rocketship) to Compile and Run the file your curser is in.
 
-![RunMenuJava](RunMenuJava.png)
+![](https://global.codio.com/platform/readme.resources/RunMenuJava.png)
 
 Use the drop-down arrow to the right of the "Compile & Run" option to change the button to just compile or just run.
 
