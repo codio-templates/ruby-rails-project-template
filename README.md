@@ -8,8 +8,6 @@ As Codio detects which file is in focus, simply put your cursor into whichever c
 ### Run your code
 Use the Run button (that looks like a Rocketship) to Run the file your cursor is in.
 
-![](https://global.codio.com/platform/readme.resources/RunMenuJava.png)
-
 ### Reconfigure your Panels for easier development
 Use the **View > Panels** menu on the top tool bar to segment your screen.
 
